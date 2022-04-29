@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÀö¡ıÿÿÿÿ
+;
+java:S3457"%String contains no format specifiers.(À®Ë½
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À®Ë½
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(çãÅ¤
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(àÍ¤æûÿÿÿÿ
+M	java:S106+"9Replace this use of System.out or System.err by a logger.(Ğ´µn
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(âìÅÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Úá€
+[
+java:S3518'"@Make sure "habitantes" can't be zero before doing this division.(²Ìüÿÿÿÿ
